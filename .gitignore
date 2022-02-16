@@ -3,3 +3,8 @@
 *.pytest_cache
 *.pyc
 *__pycache__
+.secret/
+.secret/
+.secret/
+.yesim/
+.yesim/
